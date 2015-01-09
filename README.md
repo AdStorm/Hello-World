@@ -1,2 +1,3 @@
 # Hello-World
-Its a test one
+Read this file to learn all about it.
+I like being generally useful, learning about stuff and understanding difficult things.
